@@ -1,8 +1,11 @@
+pub static WORDS : &'static str = include_str!("words.txt");
+
 #[cfg(test)]
 mod tests {
+    use super::*;
+
     #[test]
-    fn it_works() {
-        let result = 2 + 2;
-        assert_eq!(result, 4);
+    fn should_have_some_words() {
+        assert!( WORDS.len() > 0 );
     }
 }
