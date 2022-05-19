@@ -303,6 +303,7 @@ jazz
 jink
 joke
 junk
+keal
 keen
 keep
 kelp
@@ -526,6 +527,7 @@ yell
 yore
 yowl
 zeal
+zing
 zone
 about
 abuse
@@ -643,6 +645,7 @@ dryer
 earth
 eerie
 elect
+elude
 empty
 enact
 enjoy
@@ -713,6 +716,7 @@ hover
 hydra
 hydro
 hyper
+ichor
 idiom
 image
 inner
@@ -845,6 +849,7 @@ scary
 scene
 scent
 scope
+scour
 screw
 scrub
 scuba
@@ -949,6 +954,7 @@ yodel
 young
 yowls
 zebra
+absorb
 access
 adverb
 affect
@@ -1039,6 +1045,7 @@ cosmic
 county
 course
 create
+credit
 damage
 danger
 demise
@@ -1049,12 +1056,15 @@ dragon
 during
 editor
 effect
+egress
 either
+eluded
 engery
 enough
 entice
 entire
 escape
+exodus
 exotic
 expect
 extent
@@ -1175,6 +1185,7 @@ planet
 pledge
 plural
 pocket
+policy
 polish
 portal
 potato
@@ -1380,6 +1391,7 @@ curling
 current
 curtain
 cyclops
+decency
 deplete
 destroy
 detract
@@ -1387,6 +1399,7 @@ dilemma
 dresser
 driving
 durable
+element
 embrace
 emerald
 endzone
@@ -1466,6 +1479,7 @@ meeting
 memetic
 mention
 message
+migrate
 mindful
 minimum
 missile
@@ -1534,6 +1548,7 @@ require
 revenge
 reverse
 rooster
+rummage
 science
 seizure
 serpent
@@ -1553,6 +1568,7 @@ sternum
 steroid
 stomach
 strange
+subsume
 success
 suggest
 suppose
@@ -1587,6 +1603,7 @@ whether
 without
 wronged
 abnormal
+absorbed
 abstract
 accident
 addition
@@ -1623,6 +1640,7 @@ carnival
 castaway
 catalyst
 ceremony
+citation
 civilian
 clarinet
 clutches
@@ -1638,6 +1656,7 @@ constant
 continue
 contract
 creative
+credited
 currency
 definite
 denoting
@@ -1654,6 +1673,7 @@ eligible
 emission
 encumber
 endeavor
+entrench
 envelope
 epiphany
 equation
@@ -1661,6 +1681,7 @@ evaluate
 exchange
 exercise
 expected
+external
 favorite
 features
 feelings
@@ -1681,10 +1702,12 @@ goalpost
 graceful
 gradient
 graphics
+gravitas
 greenery
 guardian
 hangnail
 hardware
+hesitant
 hesitate
 holidays
 humanity
@@ -1694,6 +1717,7 @@ illusion
 imminent
 infested
 instruct
+internal
 interval
 invasion
 invasive
@@ -1718,6 +1742,7 @@ maintain
 material
 meringue
 midnight
+migrated
 minutiae
 mitigate
 momentum
@@ -1792,6 +1817,7 @@ steroids
 strategy
 strength
 stroller
+subsumed
 suitable
 superior
 swallows
@@ -1805,6 +1831,7 @@ training
 transmit
 trembles
 triangle
+trifecta
 trombone
 trousers
 tutorial
@@ -1872,6 +1899,7 @@ clearance
 cognitive
 commander
 competing
+component
 concerned
 configure
 confusion
@@ -1895,6 +1923,8 @@ economics
 education
 effective
 efficient
+egregious
+elemental
 eliminate
 emergency
 encounter
@@ -1915,6 +1945,7 @@ hindrance
 hurricane
 hyperbola
 identical
+immigrate
 incapable
 incentive
 indemnify
@@ -1943,6 +1974,8 @@ meanwhile
 mentioned
 messenger
 microwave
+migrating
+migration
 migratory
 mistletoe
 necessary
@@ -1988,6 +2021,7 @@ sometimes
 somewhere
 sophomore
 specified
+spectacle
 sprinkler
 stabilize
 statement
@@ -1999,6 +2033,7 @@ supernova
 swallowed
 taekwondo
 telephone
+tentative
 theoretic
 tokenizer
 translate
@@ -2014,6 +2049,7 @@ acceptable
 accidental
 advocating
 algorithms
+altogether
 annihilate
 antiquated
 antithesis
@@ -2050,6 +2086,7 @@ employment
 encounters
 encumbered
 enthusiasm
+entrenched
 equanimity
 evacuation
 experience
@@ -2060,6 +2097,7 @@ generation
 government
 historical
 immaterial
+immigrated
 impediment
 impossible
 incredible
@@ -2082,6 +2120,7 @@ profession
 propaganda
 protection
 reasonable
+receptacle
 recognizer
 regardless
 rejuvenate
@@ -2092,6 +2131,7 @@ screenshot
 serpentine
 similarity
 sophomoric
+spectacles
 starvation
 statistics
 subduction
@@ -2110,6 +2150,7 @@ unexpected
 unorthodox
 vegetables
 verbalized
+acquisition
 alphabetize
 alternative
 application
@@ -2139,6 +2180,7 @@ destruction
 detrimental
 development
 disassemble
+discrepancy
 disgruntled
 distinctive
 dyscalculia
@@ -2152,6 +2194,8 @@ grasshopper
 harpsichord
 hummingbird
 illusionist
+imaginative
+immigration
 impediments
 individuals
 indivisible
@@ -2234,6 +2278,7 @@ approximating
 communication
 controversial
 disconcerting
+discrepancies
 distributions
 documentation
 encyclopedias
@@ -2256,4 +2301,5 @@ characteristics
 diagonalization
 interchangeable
 phosphorescence
+unsystematically
 comprehensibility
