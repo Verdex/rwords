@@ -548,6 +548,7 @@ arrow
 avoid
 award
 axile
+badge
 beams
 beard
 beast
@@ -869,6 +870,7 @@ sieve
 sight
 since
 skirt
+slash
 sleep
 slice
 smile
@@ -969,6 +971,7 @@ around
 arrows
 artery
 autumn
+badges
 ballon
 banana
 barter
@@ -1086,6 +1089,7 @@ garden
 gather
 gazing
 gently
+glaive
 glyphs
 gravel
 grease
@@ -1180,6 +1184,7 @@ parrot
 payoff
 pencil
 people
+pierce
 pillow
 planet
 pledge
@@ -1434,6 +1439,7 @@ gateway
 general
 gesture
 glacier
+glamour
 glasses
 graphic
 grazing
@@ -1509,6 +1515,7 @@ perform
 physics
 piccalo
 picture
+pierced
 plagued
 plateau
 pointer
@@ -1558,6 +1565,7 @@ shampoo
 shuffle
 silence
 similar
+slashed
 snowman
 speaker
 special
@@ -1626,6 +1634,7 @@ barriers
 baseball
 behavior
 blizzard
+bludgeon
 building
 business
 buttling
@@ -1767,6 +1776,7 @@ paradigm
 parallel
 password
 physical
+piercing
 policies
 positive
 possible
@@ -1806,6 +1816,7 @@ shipping
 shortcut
 shoulder
 simulate
+slashing
 software
 solstice
 specific
@@ -1929,6 +1940,7 @@ eliminate
 emergency
 encounter
 enumerate
+epitomize
 equipment
 escalator
 exception
@@ -1939,6 +1951,7 @@ fortunate
 fruitless
 furtively
 gesturing
+glamorous
 goodnight
 happiness
 hindrance
@@ -2056,6 +2069,7 @@ antithesis
 astonished
 automobile
 basketball
+bludgeoned
 calamitous
 calculator
 campground
@@ -2087,6 +2101,7 @@ encounters
 encumbered
 enthusiasm
 entrenched
+epitomized
 equanimity
 evacuation
 experience
@@ -2156,6 +2171,7 @@ alternative
 application
 appointment
 approximate
+bludgeoning
 calligraphy
 camaraderie
 camouflaged
@@ -2186,6 +2202,7 @@ distinctive
 dyscalculia
 encountered
 enforcement
+epitomizing
 expectation
 explanation
 exploratory
@@ -2207,6 +2224,7 @@ integration
 intentional
 interaction
 interesting
+interpreted
 investigate
 kleptomania
 legislation
@@ -2258,11 +2276,13 @@ happenstance
 hypothetical
 inaccessible
 instructions
+interpreting
 intervention
 investigated
 jurisdiction
 kaleidoscope
 kindergarten
+misinterpret
 precognition
 professional
 rejuvenation
@@ -2282,6 +2302,7 @@ discrepancies
 distributions
 documentation
 encyclopedias
+epitomization
 establishment
 excommunicate
 inadvertently
@@ -2295,11 +2316,13 @@ coincidentally
 comprehensible
 eccentricities
 implementation
+misinterpreted
 multiplication
 phosphorescent
 characteristics
 diagonalization
 interchangeable
+misinterpreting
 phosphorescence
 unsystematically
 comprehensibility
