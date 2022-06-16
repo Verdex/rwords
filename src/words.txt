@@ -536,6 +536,7 @@ zone
 about
 abuse
 adage
+adept
 adult
 affix
 after
@@ -727,6 +728,7 @@ hyper
 ichor
 idiom
 image
+inept
 inner
 irate
 jewel
@@ -1265,6 +1267,7 @@ spider
 spirit
 sponge
 squash
+squint
 stable
 stairs
 stance
@@ -1410,6 +1413,7 @@ coupons
 courage
 cruelty
 cryptic
+culture
 curling
 current
 curtain
@@ -1470,6 +1474,7 @@ hazards
 however
 howling
 hunting
+hygiene
 illegal
 imagine
 implant
@@ -1748,6 +1753,7 @@ hesitate
 holidays
 humanity
 humidity
+hygienic
 hysteria
 illusion
 imminent
@@ -1804,6 +1810,7 @@ parabola
 paradigm
 parallel
 password
+personal
 physical
 piercing
 policies
@@ -1892,6 +1899,7 @@ yodeling
 abundance
 addictive
 adjective
+advantage
 adventure
 advocates
 albatross
@@ -1999,6 +2007,8 @@ incapable
 incentive
 indemnify
 influence
+initiated
+initiates
 innocence
 innocuous
 instructs
@@ -2101,6 +2111,8 @@ yesterday
 aberration
 acceptable
 accidental
+advantaged
+advantages
 advocating
 algorithms
 altogether
@@ -2138,6 +2150,8 @@ discussion
 distraught
 ecumenical
 electronic
+eliminated
+eliminates
 employment
 encounters
 encumbered
@@ -2162,6 +2176,10 @@ impossible
 incredible
 incredibly
 individual
+ineptitude
+initiating
+interloped
+interloper
 masquerade
 mitigative
 monumental
@@ -2194,6 +2212,7 @@ sophomoric
 spectacles
 starvation
 statistics
+stereotype
 subduction
 subjective
 subsidized
@@ -2234,6 +2253,7 @@ combination
 comfortable
 competitive
 compromised
+conjunction
 consequence
 considerate
 considering
@@ -2247,6 +2267,7 @@ disgruntled
 disoriented
 distinctive
 dyscalculia
+eliminating
 encountered
 enforcement
 epitomizing
@@ -2272,11 +2293,14 @@ integration
 intentional
 interaction
 interesting
+interlopers
+interloping
 interpreted
 investigate
 kleptomania
 legislation
 mathematics
+methodology
 momentarily
 monumentous
 objectively
@@ -2301,6 +2325,7 @@ scaffolding
 screwdriver
 shepherding
 significant
+stereotyped
 superfluous
 telekinesis
 telekinetic
@@ -2309,6 +2334,8 @@ traditional
 translucent
 transparent
 unfortunate
+uninitiated
+advantageous
 alternatives
 approximated
 augmentation
@@ -2316,6 +2343,7 @@ carbohydrate
 catastrophic
 clairvoyance
 conversation
+disadvantage
 disingenuous
 disorienting
 distribution
@@ -2337,6 +2365,7 @@ precognition
 professional
 rejuvenation
 similarities
+stereotyping
 subconscious
 subjectively
 tessellation
@@ -2347,6 +2376,8 @@ approximately
 approximating
 communication
 controversial
+disadvantaged
+disadvantages
 disconcerting
 discrepancies
 distributions
@@ -2359,6 +2390,7 @@ inadvertently
 inconsiderate
 individuality
 investigation
+methodologies
 sophisticated
 uncomfortable
 underpinnings
@@ -2372,6 +2404,7 @@ phosphorescent
 reconnaissance
 characteristics
 diagonalization
+disadvantageous
 interchangeable
 misinterpreting
 phosphorescence
