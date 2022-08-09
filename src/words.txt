@@ -42,6 +42,7 @@ hot
 how
 ice
 inn
+ion
 jam
 job
 law
@@ -548,6 +549,7 @@ alter
 amaze
 angry
 apple
+apron
 armor
 arrow
 avoid
@@ -730,6 +732,7 @@ idiom
 image
 inept
 inner
+ionic
 irate
 jewel
 jinks
@@ -785,6 +788,7 @@ mourn
 mouse
 mouth
 movie
+mummy
 murky
 music
 mutex
@@ -1065,6 +1069,7 @@ create
 credit
 damage
 danger
+debris
 demise
 desire
 dinner
@@ -1170,6 +1175,7 @@ memory
 meteor
 method
 milage
+miming
 minute
 mirror
 modern
@@ -1318,6 +1324,7 @@ wrongs
 yellow
 zenith
 zipper
+zombie
 zygote
 abusing
 acquire
@@ -1334,6 +1341,7 @@ attempt
 augment
 average
 awkward
+baleful
 barrier
 bassoon
 battery
@@ -1628,10 +1636,12 @@ typical
 uncover
 utilize
 vaguely
+vampire
 vehicle
 version
 vibrant
 visible
+volcano
 warning
 watched
 watches
@@ -1639,6 +1649,7 @@ weather
 whether
 without
 wronged
+zombies
 abnormal
 absorbed
 abstract
@@ -1683,6 +1694,7 @@ citation
 civilian
 clarinet
 clutches
+coincide
 complete
 compress
 computer
@@ -1890,7 +1902,9 @@ umbrella
 universe
 unstable
 vacation
+vampires
 virtuoso
+volcanic
 weakness
 whatever
 wireless
@@ -2105,6 +2119,7 @@ trembling
 utterance
 venerable
 verbalize
+vulcanize
 winnowing
 wrestling
 yesterday
@@ -2166,6 +2181,7 @@ expression
 federation
 flugelhorn
 foundation
+galvanized
 generation
 government
 historical
@@ -2187,6 +2203,7 @@ multiplier
 obliterate
 percolates
 permission
+pernicious
 playwright
 population
 precedence
@@ -2230,6 +2247,7 @@ unorthodox
 vegetables
 verbalized
 vocabulary
+vulcanized
 acquisition
 alphabetize
 alternative
