@@ -357,6 +357,7 @@ math
 maze
 mead
 menu
+mica
 mile
 milk
 mime
@@ -382,6 +383,8 @@ noun
 oboe
 only
 onus
+onyx
+opal
 open
 oval
 oven
@@ -431,6 +434,7 @@ rock
 room
 root
 rope
+ruby
 rush
 rust
 sack
@@ -541,12 +545,14 @@ adept
 adult
 affix
 after
+agate
 agent
 ahead
 allot
 allow
 alter
 amaze
+amber
 angry
 apple
 apron
@@ -635,6 +641,7 @@ cluck
 cobra
 comet
 conic
+coral
 could
 crane
 crash
@@ -655,6 +662,7 @@ dress
 drive
 dryer
 earth
+ebony
 eerie
 elect
 elude
@@ -736,6 +744,7 @@ inept
 inner
 ionic
 irate
+ivory
 jewel
 jinks
 joist
@@ -933,6 +942,7 @@ tiger
 timer
 token
 tooth
+topaz
 torso
 touch
 towel
@@ -1113,6 +1123,7 @@ galaxy
 gamble
 garage
 garden
+garnet
 gather
 gazing
 gently
@@ -1150,6 +1161,7 @@ jagged
 jalopy
 jangle
 jargon
+jasper
 jetsam
 jiggle
 jostle
@@ -1231,7 +1243,9 @@ profit
 proton
 purple
 putter
+pyrite
 python
+quartz
 quells
 quiver
 rabbit
@@ -1441,6 +1455,7 @@ destroy
 detract
 devised
 devises
+diamond
 dilemma
 dresser
 driving
@@ -1547,6 +1562,7 @@ nuclear
 obelisk
 obvious
 octopus
+onerous
 operate
 opinion
 organic
@@ -1559,6 +1575,7 @@ patella
 pattern
 payment
 perform
+peridot
 physics
 piccalo
 picture
@@ -1668,11 +1685,13 @@ abnormal
 absorbed
 abstract
 accident
+accolade
 addition
 advocate
 alphabet
 although
 altitude
+amethyst
 analysis
 anteater
 approval
@@ -1723,6 +1742,7 @@ continue
 contract
 creative
 credited
+cumulate
 currency
 definite
 denoting
@@ -1830,6 +1850,7 @@ national
 negative
 neighbor
 nuisance
+obsidian
 obstacle
 opponent
 oriented
@@ -1872,6 +1893,7 @@ research
 residual
 resonate
 sanctity
+sapphire
 scenario
 schedule
 secluded
@@ -1931,6 +1953,7 @@ wireless
 withdraw
 yodeling
 abundance
+accolades
 addictive
 adjective
 advantage
@@ -1993,6 +2016,7 @@ construct
 continent
 corrosive
 crocodile
+cumulates
 defensive
 detention
 determine
@@ -2063,6 +2087,7 @@ lightning
 logistics
 longitude
 machinery
+malachite
 malicious
 marathons
 maternity
@@ -2074,6 +2099,7 @@ migrating
 migration
 migratory
 mistletoe
+moonstone
 necessary
 nightmare
 nocturnal
@@ -2139,6 +2165,7 @@ tokenizer
 translate
 transport
 trembling
+turquoise
 utterance
 venerable
 verbalize
@@ -2157,6 +2184,7 @@ altogether
 annihilate
 antiquated
 antithesis
+aquamarine
 astonished
 automobile
 basketball
@@ -2223,6 +2251,7 @@ ineptitude
 initiating
 interloped
 interloper
+iridescent
 masquerade
 mitigative
 monumental
@@ -2353,6 +2382,7 @@ momentarily
 monumentous
 objectively
 obstruction
+opalescence
 overreation
 pandemonium
 participant
@@ -2398,6 +2428,7 @@ continuously
 conversation
 disadvantage
 disambiguate
+discriminate
 disingenuous
 disorienting
 distribution
@@ -2438,6 +2469,7 @@ disadvantaged
 disadvantages
 disconcerting
 discrepancies
+discriminates
 distributions
 documentation
 encyclopedias
@@ -2455,8 +2487,11 @@ uncomfortable
 underpinnings
 coincidentally
 comprehensible
+discriminating
+discrimination
 eccentricities
 implementation
+indiscriminate
 misinterpreted
 multiplication
 phosphorescent
@@ -2467,5 +2502,6 @@ disadvantageous
 interchangeable
 misinterpreting
 phosphorescence
+indiscriminately
 unsystematically
 comprehensibility
