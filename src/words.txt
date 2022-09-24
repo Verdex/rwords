@@ -703,6 +703,7 @@ genre
 giant
 given
 glass
+glide
 gloat
 gloom
 glyph
@@ -980,6 +981,7 @@ would
 wreak
 write
 wrong
+yearn
 yield
 yodel
 young
@@ -987,6 +989,7 @@ yowls
 zebra
 absorb
 access
+acumen
 adverb
 aerate
 affect
@@ -1128,6 +1131,7 @@ gather
 gazing
 gently
 glaive
+glides
 glyphs
 gravel
 grease
@@ -1271,8 +1275,10 @@ rights
 router
 rubber
 saddle
+salmon
 scream
 screen
+sculpt
 second
 sector
 select
@@ -1344,6 +1350,7 @@ winnow
 wither
 wonder
 wrongs
+yearns
 yellow
 zenith
 zipper
@@ -1500,6 +1507,7 @@ glacial
 glacier
 glamour
 glasses
+gliding
 graphic
 grazing
 grenade
@@ -1680,6 +1688,7 @@ weather
 whether
 without
 wronged
+yearned
 zombies
 abnormal
 absorbed
@@ -1951,6 +1960,7 @@ weakness
 whatever
 wireless
 withdraw
+yearning
 yodeling
 abundance
 accolades
@@ -1958,6 +1968,7 @@ addictive
 adjective
 advantage
 adventure
+advertent
 advocates
 albatross
 alignment
@@ -2037,6 +2048,7 @@ efficient
 egregious
 elemental
 eliminate
+embellish
 emergency
 encounter
 enumerate
@@ -2044,6 +2056,7 @@ epitomize
 equipment
 eradicate
 escalator
+euphemism
 exception
 exclusive
 execution
@@ -2057,6 +2070,7 @@ goodnight
 happiness
 hindrance
 hurricane
+hydraulic
 hyperbola
 identical
 immigrate
@@ -2139,6 +2153,7 @@ resources
 sanctions
 satellite
 saxophone
+sculpture
 segregate
 sepulchre
 shepherds
@@ -2306,6 +2321,7 @@ verbalized
 vocabulary
 vulcanized
 acquisition
+advertently
 alphabetize
 alternative
 application
@@ -2344,10 +2360,12 @@ disoriented
 distinctive
 dyscalculia
 eliminating
+embellished
 encountered
 enforcement
 epitomizing
 equilibrium
+euphemistic
 expectation
 explanation
 exploratory
@@ -2359,11 +2377,14 @@ hummingbird
 illusionist
 imaginative
 immigration
+impassioned
 impediments
+inadvertent
 individuals
 indivisible
 infestation
 information
+innocuously
 inspiration
 instability
 integration
@@ -2472,6 +2493,7 @@ discrepancies
 discriminates
 distributions
 documentation
+embellishment
 encyclopedias
 epitomization
 establishment
