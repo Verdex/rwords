@@ -330,6 +330,7 @@ left
 lick
 life
 lift
+limb
 lime
 line
 link
@@ -501,6 +502,7 @@ tuck
 tusk
 type
 unit
+urge
 vein
 vent
 vile
@@ -579,6 +581,7 @@ bloom
 board
 bonus
 booth
+bough
 bound
 brace
 brain
@@ -960,6 +963,9 @@ tucks
 tutor
 under
 upper
+urged
+urges
+usurp
 utter
 vague
 venue
@@ -1022,6 +1028,7 @@ bottle
 bottom
 bounds
 bracer
+branch
 breeds
 bright
 bubble
@@ -1075,6 +1082,7 @@ collar
 column
 combat
 common
+comply
 cookie
 copier
 copper
@@ -1116,6 +1124,7 @@ female
 fetter
 figure
 finger
+fledge
 flight
 flower
 follow
@@ -1184,6 +1193,7 @@ knight
 lariat
 larynx
 latter
+leaves
 linear
 liquid
 lively
@@ -1227,6 +1237,7 @@ origin
 packet
 parade
 parrot
+patron
 payoff
 pencil
 people
@@ -1238,6 +1249,7 @@ plural
 pocket
 policy
 polish
+pollen
 portal
 potato
 pretty
@@ -1334,6 +1346,8 @@ tumble
 tunnel
 unique
 unless
+urgent
+urging
 utters
 vendor
 veneer
@@ -1490,6 +1504,7 @@ federal
 figured
 finally
 firearm
+fledged
 flushed
 flushes
 flutter
@@ -1696,6 +1711,7 @@ abstract
 accident
 accolade
 addition
+admonish
 advocate
 alphabet
 although
@@ -1708,6 +1724,7 @@ arachnid
 assemble
 asteroid
 atypical
+audacity
 audience
 backward
 bacteria
@@ -1894,6 +1911,7 @@ reaction
 rebuttal
 redirect
 register
+regolith
 relative
 reliance
 religion
@@ -1987,6 +2005,7 @@ astrology
 astronaut
 astronomy
 attention
+audacious
 automatic
 auxiliary
 available
@@ -2019,6 +2038,7 @@ clearance
 cognitive
 commander
 competing
+compliant
 component
 concerned
 configure
@@ -2124,6 +2144,7 @@ orienting
 otherwise
 pasturage
 paternity
+patronage
 percolate
 permanent
 petroleum
@@ -2133,6 +2154,7 @@ potential
 practical
 predicate
 preoccupy
+prescribe
 privilege
 proclaims
 proponent
@@ -2147,6 +2169,7 @@ rectangle
 reduction
 redundant
 reference
+reprehend
 represent
 resistant
 resources
@@ -2191,6 +2214,8 @@ yesterday
 aberration
 acceptable
 accidental
+admonished
+admonishes
 advantaged
 advantages
 advocating
@@ -2219,6 +2244,7 @@ commercial
 compatible
 compelling
 completely
+compliance
 comprehend
 conclusion
 conductive
@@ -2279,6 +2305,8 @@ playwright
 population
 precedence
 prediction
+prescribed
+prescribes
 privileged
 privileges
 proclaimed
@@ -2291,6 +2319,7 @@ recognizer
 regardless
 rejuvenate
 remarkable
+reprehends
 resolution
 retirement
 screenshot
@@ -2415,6 +2444,8 @@ permutation
 personality
 playwrights
 playwriting
+pollination
+prescribing
 pretentious
 problematic
 programming
@@ -2422,6 +2453,7 @@ progressive
 prohibitive
 pyroclastic
 rejuvenated
+reprimanded
 scaffolding
 screwdriver
 shepherding
@@ -2437,6 +2469,7 @@ translucent
 transparent
 unfortunate
 uninitiated
+admonishment
 advantageous
 alternatives
 approximated
@@ -2470,9 +2503,11 @@ kaleidoscope
 kindergarten
 misinterpret
 precognition
+prescription
 professional
 racketeering
 rejuvenation
+reprehending
 similarities
 stereotyping
 subconscious
@@ -2481,6 +2516,7 @@ tessellation
 tokenization
 underpinning
 unencumbered
+admonishments
 approximately
 approximating
 communication
