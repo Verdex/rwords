@@ -665,14 +665,17 @@ dress
 drive
 dryer
 earth
+eased
 ebony
 eerie
 elect
 elude
 empty
 enact
+endow
 enjoy
 enter
+envoy
 error
 event
 every
@@ -945,6 +948,7 @@ thing
 tiger
 timer
 token
+tonic
 tooth
 topaz
 torso
@@ -1104,11 +1108,14 @@ dinner
 disarm
 dragon
 during
+easily
+easing
 editor
 effect
 egress
 either
 eluded
+endows
 engery
 enough
 entice
@@ -1354,6 +1361,7 @@ veneer
 violet
 violin
 vision
+vorpal
 waffle
 washer
 weapon
@@ -1484,6 +1492,7 @@ durable
 element
 embrace
 emerald
+endowed
 endzone
 enforce
 epitome
@@ -1556,6 +1565,7 @@ leisure
 library
 lobster
 longing
+luddite
 machine
 madness
 magical
@@ -1671,6 +1681,7 @@ success
 succumb
 suggest
 suppose
+suspect
 swallow
 sweater
 tension
@@ -1766,6 +1777,7 @@ consists
 constant
 continue
 contract
+corrects
 creative
 credited
 cumulate
@@ -1787,6 +1799,7 @@ eligible
 emission
 encumber
 endeavor
+endowing
 entrench
 envelope
 epiphany
@@ -1951,6 +1964,7 @@ subsumed
 succumbs
 suitable
 superior
+suspects
 swallows
 titanium
 toboggan
@@ -2071,6 +2085,7 @@ eliminate
 embellish
 emergency
 encounter
+endowment
 enumerate
 epitomize
 equipment
@@ -2253,6 +2268,7 @@ contention
 contiguous
 continuous
 contracted
+correcting
 derailleur
 detractors
 dictionary
@@ -2266,6 +2282,7 @@ eliminates
 employment
 encounters
 encumbered
+endowments
 enthusiasm
 entrenched
 epitomized
@@ -2312,6 +2329,7 @@ privileges
 proclaimed
 profession
 propaganda
+proportion
 protection
 reasonable
 receptacle
@@ -2335,6 +2353,7 @@ subjective
 subsidized
 subsidizes
 sufficient
+suspecting
 suspension
 television
 temptation
@@ -2378,6 +2397,7 @@ consecutive
 consequence
 considerate
 considering
+correctness
 dehydration
 destruction
 detrimental
@@ -2451,6 +2471,7 @@ problematic
 programming
 progressive
 prohibitive
+proportions
 pyroclastic
 rejuvenated
 reprimanded
@@ -2505,6 +2526,7 @@ misinterpret
 precognition
 prescription
 professional
+proportional
 racketeering
 rejuvenation
 reprehending
