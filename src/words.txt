@@ -758,6 +758,7 @@ joist
 joker
 joule
 joust
+jowls
 judge
 juice
 juror
@@ -928,6 +929,7 @@ start
 state
 steal
 steel
+stein
 stick
 stock
 stone
@@ -1344,6 +1346,7 @@ theory
 though
 thread
 timber
+timbre
 tokens
 tomato
 tongue
@@ -1555,6 +1558,7 @@ jeweler
 jewelry
 journal
 jugular
+kenetic
 keyhole
 keynote
 kingdom
@@ -1787,6 +1791,7 @@ denoting
 depleted
 devising
 dewpoint
+diagnose
 diagonal
 diminish
 dinosaur
@@ -1844,6 +1849,8 @@ humanity
 humidity
 hygienic
 hysteria
+identify
+identity
 illusion
 imminent
 infested
@@ -1885,6 +1892,7 @@ mosquito
 mountain
 mushroom
 mutation
+mutilate
 national
 negative
 neighbor
@@ -2027,6 +2035,7 @@ barricade
 birdhouse
 bookshelf
 breakfast
+brilliant
 buccaneer
 butterfly
 cacophony
@@ -2037,6 +2046,7 @@ candidate
 cardboard
 cartridge
 casserole
+cassowary
 cataclysm
 catacombs
 catharsis
@@ -2067,6 +2077,8 @@ detention
 determine
 detractor
 detriment
+diagnosed
+diagnoses
 different
 direction
 dirigible
@@ -2149,6 +2161,8 @@ migration
 migratory
 mistletoe
 moonstone
+mutilated
+mutilates
 necessary
 nightmare
 nocturnal
@@ -2271,6 +2285,7 @@ contracted
 correcting
 derailleur
 detractors
+diagnosing
 dictionary
 discourage
 discussion
@@ -2298,6 +2313,7 @@ galvanized
 generation
 government
 historical
+identifies
 immaterial
 immigrated
 impediment
@@ -2309,11 +2325,13 @@ ineptitude
 initiating
 interloped
 interloper
+introspect
 iridescent
 masquerade
 mitigative
 monumental
 multiplier
+mutilating
 obliterate
 percolates
 permission
@@ -2423,6 +2441,7 @@ grasshopper
 haphazardly
 harpsichord
 hummingbird
+identifying
 illusionist
 imaginative
 immigration
@@ -2443,6 +2462,7 @@ interesting
 interlopers
 interloping
 interpreted
+introspects
 investigate
 kleptomania
 legislation
@@ -2513,11 +2533,13 @@ encyclopedia
 expectations
 happenstance
 hypothetical
+identifiable
 inaccessible
 inconclusive
 instructions
 interpreting
 intervention
+introspected
 investigated
 jurisdiction
 kaleidoscope
@@ -2559,6 +2581,8 @@ excommunicate
 inadvertently
 inconsiderate
 individuality
+introspection
+introspective
 investigation
 methodologies
 sophisticated
@@ -2585,3 +2609,4 @@ phosphorescence
 indiscriminately
 unsystematically
 comprehensibility
+introspectiveness
