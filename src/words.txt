@@ -683,6 +683,7 @@ exact
 faith
 false
 farms
+fault
 fence
 fetch
 fiber
@@ -1127,6 +1128,8 @@ exodus
 exotic
 expect
 extent
+faults
+faulty
 fealty
 felled
 female
@@ -1548,6 +1551,7 @@ hygiene
 illegal
 imagine
 implant
+implore
 indutry
 inexact
 infests
@@ -1853,6 +1857,8 @@ identify
 identity
 illusion
 imminent
+implored
+implores
 infested
 innocent
 instruct
@@ -2013,6 +2019,7 @@ advocates
 albatross
 alignment
 alligator
+allowance
 ambiguity
 ambiguous
 ambulance
@@ -2073,6 +2080,7 @@ corrosive
 crocodile
 cumulates
 defensive
+designate
 detention
 determine
 detractor
@@ -2122,6 +2130,7 @@ hyperbola
 identical
 immigrate
 immutable
+imploring
 incapable
 incentive
 indemnify
@@ -2265,6 +2274,7 @@ campground
 cantaloupe
 cantilever
 capitalize
+capitulate
 carburetor
 caricature
 centrifuge
@@ -2284,6 +2294,8 @@ continuous
 contracted
 correcting
 derailleur
+designated
+designates
 detractors
 diagnosing
 dictionary
@@ -2406,17 +2418,22 @@ celebration
 certificate
 circulation
 clairvoyant
+clandestine
 combination
 comfortable
 competitive
+comprehends
 compromised
 conjunction
 consecutive
 consequence
 considerate
 considering
+conspicuous
 correctness
 dehydration
+designating
+designation
 destruction
 detrimental
 development
@@ -2518,6 +2535,7 @@ augmentation
 carbohydrate
 catastrophic
 clairvoyance
+comprehended
 contiguously
 continuously
 conversation
@@ -2564,7 +2582,9 @@ admonishments
 approximately
 approximating
 communication
+comprehending
 consecutively
+conspicuously
 controversial
 disadvantaged
 disadvantages
@@ -2603,6 +2623,7 @@ reconnaissance
 characteristics
 diagonalization
 disadvantageous
+incomprehension
 interchangeable
 misinterpreting
 phosphorescence
