@@ -890,6 +890,7 @@ scour
 screw
 scrub
 scuba
+seams
 seize
 sever
 sewer
@@ -1492,6 +1493,7 @@ devised
 devises
 diamond
 dilemma
+disrupt
 dresser
 driving
 durable
@@ -1524,6 +1526,7 @@ flushed
 flushes
 flutter
 foreign
+foresee
 forever
 forward
 freedom
@@ -1754,6 +1757,7 @@ behavior
 blizzard
 bludgeon
 boundary
+brochure
 building
 business
 buttling
@@ -1799,6 +1803,7 @@ diagnose
 diagonal
 diminish
 dinosaur
+disrupts
 division
 dramatic
 easement
@@ -1824,6 +1829,7 @@ features
 feelings
 fiendish
 football
+foreseen
 fountain
 fragment
 frequent
@@ -1910,6 +1916,7 @@ oriented
 original
 orthodox
 painting
+pamphlet
 parabola
 paradigm
 parallel
@@ -2043,6 +2050,7 @@ birdhouse
 bookshelf
 breakfast
 brilliant
+brochures
 buccaneer
 butterfly
 cacophony
@@ -2091,6 +2099,7 @@ different
 direction
 dirigible
 disorient
+disrupted
 divisible
 dragonfly
 duplicate
@@ -2180,6 +2189,7 @@ operation
 orchestra
 orienting
 otherwise
+pamphlets
 pasturage
 paternity
 patronage
@@ -2301,6 +2311,7 @@ diagnosing
 dictionary
 discourage
 discussion
+disrupting
 distraught
 ecumenical
 electronic
@@ -2442,6 +2453,7 @@ discrepancy
 disgruntled
 disoriented
 distinctive
+distinguish
 dyscalculia
 eliminating
 embellished
@@ -2453,6 +2465,7 @@ euphemistic
 expectation
 explanation
 exploratory
+foreseeable
 frightening
 grasshopper
 haphazardly
@@ -2581,6 +2594,7 @@ unencumbered
 admonishments
 approximately
 approximating
+clandestinely
 communication
 comprehending
 consecutively
@@ -2591,6 +2605,8 @@ disadvantages
 disconcerting
 discrepancies
 discriminates
+distinguished
+distinguishes
 distributions
 documentation
 embellishment
@@ -2613,6 +2629,7 @@ coincidentally
 comprehensible
 discriminating
 discrimination
+distinguishing
 eccentricities
 implementation
 indiscriminate
@@ -2623,6 +2640,7 @@ reconnaissance
 characteristics
 diagonalization
 disadvantageous
+distinguishable
 incomprehension
 interchangeable
 misinterpreting
@@ -2630,4 +2648,5 @@ phosphorescence
 indiscriminately
 unsystematically
 comprehensibility
+indistinguishable
 introspectiveness
