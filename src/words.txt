@@ -184,6 +184,7 @@ chow
 cite
 coal
 code
+coil
 cold
 comb
 cone
@@ -491,6 +492,7 @@ tilt
 time
 tiny
 tire
+toil
 toll
 tone
 tool
@@ -954,6 +956,7 @@ there
 thing
 tiger
 timer
+toils
 token
 tonic
 tooth
@@ -1090,6 +1093,7 @@ clover
 clutch
 cobalt
 cobolt
+coiled
 collar
 column
 combat
@@ -1355,6 +1359,8 @@ though
 thread
 timber
 timbre
+toiled
+toilet
 tokens
 tomato
 tongue
@@ -1707,6 +1713,8 @@ thought
 thunder
 timpani
 toenail
+toilets
+toiling
 torment
 tornado
 torrent
@@ -2003,6 +2011,7 @@ suspects
 swallows
 titanium
 toboggan
+toileted
 tokenize
 topology
 tortoise
@@ -2263,6 +2272,7 @@ taekwondo
 telephone
 tentative
 theoretic
+toileting
 tokenizer
 translate
 transport
