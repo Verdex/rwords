@@ -564,6 +564,7 @@ avoid
 award
 axile
 badge
+banal
 bated
 beams
 beard
@@ -1013,6 +1014,7 @@ airbag
 alpaca
 amazed
 animal
+annual
 anyway
 apathy
 append
@@ -1466,6 +1468,7 @@ company
 compile
 complex
 compose
+concept
 concern
 condemn
 conduct
@@ -1665,6 +1668,7 @@ regular
 reliant
 request
 require
+resolve
 revenge
 reverse
 rooster
@@ -1743,6 +1747,7 @@ although
 altitude
 amethyst
 analysis
+annually
 anteater
 approval
 arachnid
@@ -1754,6 +1759,8 @@ audience
 backward
 bacteria
 bagpipes
+banality
+banalize
 barriers
 baseball
 behavior
@@ -1783,6 +1790,7 @@ coincide
 complete
 compress
 computer
+concepts
 concerns
 conclude
 concrete
@@ -1955,6 +1963,8 @@ religion
 reminder
 research
 residual
+resolved
+resolves
 resonate
 sanctity
 sapphire
@@ -2224,6 +2234,7 @@ reference
 reprehend
 represent
 resistant
+resolving
 resources
 sanctions
 satellite
@@ -2592,6 +2603,7 @@ rejuvenation
 reprehending
 scrutability
 similarities
+simultaneous
 stereotyping
 subconscious
 subjectively
@@ -2646,7 +2658,9 @@ misinterpreted
 multiplication
 phosphorescent
 reconnaissance
+simultaneously
 characteristics
+conceptualizing
 diagonalization
 disadvantageous
 distinguishable
@@ -2654,8 +2668,12 @@ incomprehension
 interchangeable
 misinterpreting
 phosphorescence
+reconceptualize
 indiscriminately
 unsystematically
 comprehensibility
+conceptualization
 indistinguishable
 introspectiveness
+reconceptualizing
+reconceptualization
