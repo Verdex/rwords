@@ -1136,6 +1136,7 @@ enough
 entice
 entire
 escape
+eschew
 exodus
 exotic
 expect
@@ -1569,6 +1570,7 @@ hunting
 hygiene
 illegal
 imagine
+impeded
 implant
 implore
 indutry
@@ -1641,6 +1643,7 @@ physics
 piccalo
 picture
 pierced
+pierces
 placate
 plagued
 plateau
@@ -1845,6 +1848,7 @@ entrench
 envelope
 epiphany
 equation
+eschewed
 evaluate
 exchange
 exercise
@@ -1890,6 +1894,7 @@ identify
 identity
 illusion
 imminent
+impeding
 implored
 implores
 infested
@@ -1917,6 +1922,7 @@ laughter
 loyality
 magician
 maintain
+maneuver
 material
 meringue
 midnight
@@ -2153,6 +2159,7 @@ epitomize
 equipment
 eradicate
 escalator
+eschewing
 euphemism
 exception
 exclusive
@@ -2201,6 +2208,7 @@ longitude
 machinery
 malachite
 malicious
+maneuvers
 marathons
 maternity
 meanwhile
@@ -2359,6 +2367,7 @@ employment
 encounters
 encumbered
 endowments
+enrichment
 enthusiasm
 entrenched
 epitomized
@@ -2388,6 +2397,7 @@ interloped
 interloper
 introspect
 iridescent
+maneuvered
 masquerade
 mitigative
 monumental
@@ -2432,6 +2442,7 @@ subduction
 subjective
 subsidized
 subsidizes
+subterfuge
 sufficient
 suspecting
 suspension
@@ -2536,6 +2547,7 @@ introspects
 investigate
 kleptomania
 legislation
+maneuvering
 mathematics
 methodology
 momentarily
